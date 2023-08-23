@@ -6,5 +6,5 @@ I know Python rather well, and I'm learning JavaScript. I also know how to use H
 Some of the projects I'm currently working on!
 ### Repositories
 - JOHANs NUKER - [Discord Nuke Bot](<https://github.com/ngs-official/JOHANs-NUKER>)
-- JOHANs SELFBOT - [Discord Selfbot](<https://github.com/ngs-official/JOHANs-SELFBOT>)
+- JOHANs SELFBOT - [Discord Selfbot](<https://github.com/ngs-official/JOHANs-SELFBOT>) <br/>
 I'm not really working on much else for the NGS, so yeah.
